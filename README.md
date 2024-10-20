@@ -12,3 +12,7 @@ Key features include:
 - **Collaboration Tools:** Enables easy sharing and editing among team members.
 
 This tool is ideal for businesses seeking to streamline their workflow and enhance communication efficiency.
+
+Workflow Diagram:
+
+![image](https://github.com/user-attachments/assets/83abec84-7c67-48ba-95d1-ca16f37b5837)
